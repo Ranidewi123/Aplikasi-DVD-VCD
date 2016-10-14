@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Kaset">
+        <item>Ayat-ayat Cinta</item>
+        <item>Soekarno</item>
+        <item>Laskar Pelangi</item>
+        <item>Naruto</item>
+        <item>One Piece</item>
+        <item>Doraemon</item>
+    </string-array>
+</resources>
