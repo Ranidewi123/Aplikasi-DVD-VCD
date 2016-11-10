@@ -1,19 +1,7 @@
-# Aplikasi-DVD-VCD
-Aplikasi ini digunakan untuk peminjaman kaset. Dalam Form ini user harus mengisikan :<br>
-
--Menu yang akan dipilih (Kembali / Pinjam),<br>
--Lama Hari,<br>
--Saran dan Komentar<br>
-
-ada :<br>
--1 buahImageView<br>
--3 buah RadioButton dan 1 buah RadioGroup<br>
--1 Buah EditText<br>
--7 buah TextView<br>
--1 buah ScroolView<br>
--1 buah Spinner<br>
-
-Screenshot Aplikasi :<br>
+<h1>Aplikasi DVD dan VCD</h1>
+Tema aplikasi ini adalah sebagai peminjaman dan pengembalian kaset. Pertama pengguna memilih layanan kaset yaitu kembalikan atau menambah waktu pinjam kaset. Kedua apabila pengguna memilih kembalikan maka langsung menuju judul kaset yang akan dikembalikan , bila pengguna menambah waktu pinjam kaset maka harus mengisi berapa lama kaset tersebut dipinjam kembali. Didalam aplikasi ini terdapat form isian sebagai form komentar dimana pengguna harus mengisinya , jika tidak diisi maka akan muncul Error yaitu komentar harus diisi, dan juga di output tidak akan menampilkan komentar yang tidak diisi di form input.
+<h2>Screenshot Aplikasi :</h2>
+<br>
 
 ![screenshot_2016-10-15-03-44-22](https://cloud.githubusercontent.com/assets/22088935/19411461/672f0d78-932c-11e6-996a-c7e8b10cab44.png)
 ![screenshot_2016-10-15-03-33-32](https://cloud.githubusercontent.com/assets/22088935/19411462/6732cb8e-932c-11e6-8c47-8c0f38ec8364.png)
